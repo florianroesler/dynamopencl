@@ -1,3 +1,11 @@
+**NOTE**
+---
+
+This repository contains the initial implementation of DynamOpenCL (Dynamic OpenCL). The framework was later renamed to CloudCL (has a better ring to it) and served as the basic building block for other Master Thesises and some PhD topics. After I handed in my Master Thesis, the code here was not touched anymore. It still remains a working proof of concept to harness the full potential of heterogeneous compute clusters.
+
+For the latest version of CloudCL it makes sense to visit the following fork: https://github.com/plauth/cloudcl
+
+---
 # DynamOpenCL (Dynamic OpenCL)
 
 Dynamic OpenCL is an idea originating from a master's thesis that tries to solve the problem of computing a great workload on multiple machines within a network in order to receive a speedup. Most prominent existing solutions have one or multiple of the following shortcomings:
